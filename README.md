@@ -180,30 +180,26 @@ An experimental AI agent built with Node.js and the Groq SDK.
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<br />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YashAdhale&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Yash Adhale GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAdhale&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Yash Adhale Top Languages"
+  />
+</p>
 
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=YashAdhale&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-height="180"
-alt="Yash Adhale GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAdhale&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-height="180"
-alt="Yash Adhale Top Languages"
-/>
-
-<br />
-<br />
-
-<img
-src="https://streak-stats.demolab.com?user=YashAdhale&theme=tokyonight&hide_border=true"
-width="60%"
-alt="Yash Adhale GitHub Streak"
-/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=YashAdhale&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Yash Adhale GitHub Streak"
+  />
+</p>
 
 </div>
 
