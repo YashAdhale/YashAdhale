@@ -42,6 +42,7 @@ const yashAdhale = {
 ```
 
 ---
+<!--
 
 ## 🚀 Featured Projects
 
@@ -72,7 +73,7 @@ Darkstore and real-time delivery platform with inventory management, dynamic pri
 | Architecture | RBAC, Event-Driven, Microservices |
 
 > Repo link not provided — add it in later to enable the live stats card.
-
+-->
 ---
 
 ## 🛠️ Tech Stack
