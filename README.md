@@ -1,48 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=200&section=header&text=Yash%20Adhale&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend-Focused&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:06B6D4,100:0F172A&height=220&section=header&text=Yash%20Adhale&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend-Focused&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Event-Driven+%7C+Real-Time+%7C+RBAC;Exploring+RAG+%2B+LangChain+%2B+Vector+DBs;Building+with+Socket.IO+%2B+SSE+%2B+Redis"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+backend+systems+%E2%9A%A1;Event-Driven+%E2%80%A2+Real-Time+%E2%80%A2+RBAC;Socket.IO+%E2%80%A2+SSE+%E2%80%A2+Redis+%E2%80%A2+RabbitMQ;Exploring+RAG+%E2%80%A2+LangChain+%E2%80%A2+Vector+Databases" alt="Typing SVG" />
 </a>
 
 <br />
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-06B6D4?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
+<p>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-06B6D4?style=for-the-badge&logoColor=white" alt="Open to Work" />
+</p>
 
-<br />
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=YashAdhale&color=06B6D4&style=flat-square&label=Profile+Views" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/YashAdhale?label=Followers&style=flat-square&color=06B6D4" alt="GitHub Followers" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YashAdhale&color=06B6D4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YashAdhale?label=FOLLOWERS&style=flat-square&color=06B6D4" alt="Followers" />
+</p>
 
 </div>
 
----
+<br />
 
-## 👨‍💻 About Me
+<h2 align="center">⚡ About Me</h2>
+
+<div align="center">
+
+Backend-focused developer building **real-time, event-driven, and scalable systems**.
+
+I work primarily with **Node.js, TypeScript, PostgreSQL, Redis, RabbitMQ, and Socket.IO** while exploring **AI agents, RAG, and modern LLM workflows**.
+
+</div>
+
+<br />
 
 ```typescript
-const yashAdhale = {
+const yash = {
   role: "Full Stack Developer",
   focus: "Backend Engineering",
 
-  languages: ["JavaScript", "TypeScript", "Python"],
+  core: {
+    languages: ["JavaScript", "TypeScript", "Python"],
+    backend: ["Node.js", "Express.js", "FastAPI"],
+    databases: ["PostgreSQL", "MySQL"],
+  },
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "FastAPI",
-    "REST APIs",
-  ],
-
-  systems: [
+  engineering: [
     "Event-Driven Architecture",
     "Real-Time Systems",
-    "RBAC",
+    "Role-Based Access Control",
     "Multi-Tenant Systems",
     "Background Jobs & Schedulers",
   ],
@@ -56,186 +61,175 @@ const yashAdhale = {
     "SSE",
   ],
 
-  databases: [
-    "PostgreSQL",
-    "MySQL",
-    "Sequelize",
-    "Prisma",
-  ],
-
-  currentlyExploring: [
+  exploring: [
     "RAG",
     "LangChain",
     "LangGraph",
-    "Embeddings",
     "Vector Databases",
   ],
 
-  building: "Scalable backend systems and AI-powered applications",
-
-  openTo: [
-    "Backend Engineering Roles",
-    "Full Stack Roles",
-    "Freelance & Contract Work",
-  ],
+  currentFocus: "Scalable backend systems & AI-powered applications",
 };
 ```
 
----
+<br />
 
 <!--
 
-## 🚀 Featured Projects
-
-### 🏬 Matero
-
-A darkstore and real-time delivery platform focused on inventory management,
-dynamic pricing history, role-based access control, driver queues, QR workflows,
-and live delivery tracking.
-
-#### Key Engineering Work
-
-- Real-time driver tracking with Socket.IO
-- Server-Sent Events for queue and QR updates
-- Role-Based Access Control (RBAC)
-- Multi-tenant backend architecture
-- Inventory and inventory transaction management
-- Dynamic pricing and historical price aggregation
-- Background schedulers and cron jobs
-- Redis-backed real-time workflows
-- Event-driven service communication
-
-| Layer | Technology |
-| --- | --- |
-| Frontend | React.js, Next.js |
-| Backend | Node.js, Express.js |
-| Database | PostgreSQL, Sequelize |
-| Real-Time | Socket.IO, SSE |
-| Messaging | RabbitMQ |
-| Cache | Redis |
-| Architecture | Event-Driven, Multi-Tenant, RBAC |
-
-> Add the repository and live application links before making this section public.
-
----
-
-### 🤖 AiAgent
-
-An AI agent project built with Node.js and the Groq SDK while exploring
-tool-based AI workflows and agent architecture.
-
-<img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=YashAdhale&repo=AiAgent&theme=nord&border_color=06B6D4&title_color=06B6D4&text_color=c9d1d9&icon_color=06B6D4"
-  alt="AiAgent Repository"
-/>
-
-| Layer | Technology |
-| --- | --- |
-| Runtime | Node.js |
-| AI | Groq SDK |
-| Architecture | AI Agent Workflow |
-
-[🔗 View Source Code](https://github.com/YashAdhale/AiAgent)
-
--->
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,py" alt="JavaScript, TypeScript and Python" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui" alt="React, Next.js, Tailwind CSS and Material UI" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express.js and FastAPI" />
-
-### Databases & Caching
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,redis" alt="MySQL, PostgreSQL, Prisma and Redis" />
-
-### Messaging & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=rabbitmq,kafka,docker" alt="RabbitMQ, Kafka and Docker" />
-
-### Cloud
-
-<img src="https://skillicons.dev/icons?i=gcp,cloudflare" alt="Google Cloud and Cloudflare" />
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code and Postman" />
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=YashAdhale&show_icons=true&theme=nord&border_color=06B6D4&title_color=06B6D4&text_color=c9d1d9&icon_color=06B6D4&hide_border=false"
-width="48%"
-alt="Yash Adhale GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAdhale&layout=compact&theme=nord&border_color=06B6D4&title_color=06B6D4&text_color=c9d1d9"
-width="40%"
-alt="Yash Adhale Top Languages"
-/>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <br />
 
-<img
-src="https://streak-stats.demolab.com?user=YashAdhale&theme=nord&border=06B6D4&background=1a1b27&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4"
-width="60%"
-alt="Yash Adhale GitHub Streak"
-/>
+### 🏬 Matero
 
-</div>
+> Real-time darkstore and delivery infrastructure.
 
----
+A backend-focused delivery platform built around inventory management,
+dynamic pricing, driver queues, QR workflows, and real-time tracking.
 
-## 🏆 GitHub Trophies
+#### ⚡ Engineering Highlights
 
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=YashAdhale&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7"
-alt="Yash Adhale GitHub Trophies"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
+- Real-time driver tracking using Socket.IO
+- SSE-based queue and QR updates
+- Role-Based Access Control
+- Multi-tenant backend architecture
+- Inventory transaction management
+- Dynamic pricing history and aggregation
+- Background schedulers and cron workflows
+- Redis-backed real-time state
+- Event-driven service communication
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YashAdhale&theme=react-dark&color=06B6D4&line=06B6D4&point=ffffff&area=true&hide_border=true"
-width="90%"
-alt="Yash Adhale Contribution Graph"
-/>
+| Backend | Real-Time | Infrastructure |
+| :---: | :---: | :---: |
+| Node.js | Socket.IO | Redis |
+| Express.js | SSE | RabbitMQ |
+| PostgreSQL | Live Tracking | Background Jobs |
 
 </div>
 
----
+<br />
+
+### 🤖 AiAgent
+
+> Exploring AI agents and tool-driven LLM workflows.
+
+An experimental AI agent built with Node.js and the Groq SDK.
 
 <div align="center">
 
-### Building systems. Understanding architecture. Improving every day.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashAdhale&repo=AiAgent&theme=transparent&border_color=06B6D4&title_color=06B6D4&text_color=94A3B8&icon_color=06B6D4" alt="AiAgent Repository" />
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=120&section=footer"
-width="100%"
-alt="Footer"
-/>
+<br />
+
+<a href="https://github.com/YashAdhale/AiAgent">
+  <img src="https://img.shields.io/badge/VIEW%20SOURCE-0F172A?style=for-the-badge&logo=github&logoColor=06B6D4" alt="View Source" />
+</a>
+
+</div>
+
+<br />
+
+-->
+
+<h2 align="center">🛠️ Technology Stack</h2>
+
+<br />
+
+<div align="center">
+
+<h3>Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark" alt="Languages" />
+
+<br />
+
+<h3>Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui&theme=dark" alt="Frontend" />
+
+<br />
+
+<h3>Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend" />
+
+<br />
+
+<h3>Databases & Caching</h3>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis&theme=dark" alt="Databases and Caching" />
+
+<br />
+
+<h3>Messaging & Infrastructure</h3>
+
+<img src="https://skillicons.dev/icons?i=rabbitmq,kafka,docker&theme=dark" alt="Messaging and Infrastructure" />
+
+<br />
+
+<h3>Cloud & Developer Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=gcp,cloudflare,git,github,vscode,postman&theme=dark" alt="Cloud and Developer Tools" />
+
+</div>
+
+<br />
+<br />
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<br />
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashAdhale&show_icons=true&theme=transparent&border_color=1E293B&title_color=06B6D4&text_color=94A3B8&icon_color=06B6D4&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAdhale&layout=compact&theme=transparent&border_color=1E293B&title_color=06B6D4&text_color=94A3B8&langs_count=8" alt="Top Languages" />
+
+<br />
+<br />
+
+<img src="https://streak-stats.demolab.com?user=YashAdhale&theme=transparent&hide_border=false&border=1E293B&background=00000000&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" width="65%" alt="GitHub Streak" />
+
+</div>
+
+<br />
+<br />
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YashAdhale&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub Trophies" />
+
+</div>
+
+<br />
+<br />
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashAdhale&bg_color=00000000&color=94A3B8&line=06B6D4&point=E2E8F0&area=true&area_color=06B6D4&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+
+</div>
+
+<br />
+<br />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Building+systems.;Understanding+architecture.;Improving+one+commit+at+a+time." alt="Footer Typing SVG" />
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:06B6D4,100:0F172A&height=130&section=footer" width="100%" alt="Footer" />
 
 </div>
