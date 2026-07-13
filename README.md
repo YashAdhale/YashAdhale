@@ -138,46 +138,38 @@ An experimental AI agent built with Node.js and the Groq SDK.
 <br />
 
 <div align="center">
-
-<h3>Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark" alt="Languages" />
-
-<br />
-
-<h3>Frontend</h3>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui&theme=dark" alt="Frontend" />
-
-<br />
-
-<h3>Backend</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend" />
-
-<br />
-
-<h3>Databases & Caching</h3>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis&theme=dark" alt="Databases and Caching" />
-
-<br />
-
-<h3>Messaging & Infrastructure</h3>
-
-<img src="https://skillicons.dev/icons?i=rabbitmq,kafka,docker&theme=dark" alt="Messaging and Infrastructure" />
-
-<br />
-
-<h3>Cloud & Developer Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=gcp,cloudflare,git,github,vscode,postman&theme=dark" alt="Cloud and Developer Tools" />
-
+  <table>
+    <tbody>
+      <tr>
+        <td align="right" width="40%"><b>Languages</b></td>
+        <td align="left" width="60%"><img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark" alt="Languages" valign="middle" /></td>
+      </tr>
+      <tr>
+        <td align="right"><b>Frontend</b></td>
+        <td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui&theme=dark" alt="Frontend" valign="middle" /></td>
+      </tr>
+      <tr>
+        <td align="right"><b>Backend</b></td>
+        <td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend" valign="middle" /></td>
+      </tr>
+      <tr>
+        <td align="right"><b>Databases & Caching</b></td>
+        <td align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis&theme=dark" alt="Databases and Caching" valign="middle" /></td>
+      </tr>
+      <tr>
+        <td align="right"><b>Messaging & Infrastructure</b></td>
+        <td align="left"><img src="https://skillicons.dev/icons?i=rabbitmq,kafka,docker&theme=dark" alt="Messaging and Infrastructure" valign="middle" /></td>
+      </tr>
+      <tr>
+        <td align="right"><b>Cloud & Developer Tools</b></td>
+        <td align="left"><img src="https://skillicons.dev/icons?i=gcp,cloudflare,git,github,vscode,postman&theme=dark" alt="Cloud and Developer Tools" valign="middle" /></td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <br />
 <br />
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <br />
