@@ -184,16 +184,29 @@ An experimental AI agent built with Node.js and the Groq SDK.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashAdhale&show_icons=true&theme=transparent&border_color=1E293B&title_color=06B6D4&text_color=94A3B8&icon_color=06B6D4&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=YashAdhale&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+height="180"
+alt="Yash Adhale GitHub Stats"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAdhale&layout=compact&theme=transparent&border_color=1E293B&title_color=06B6D4&text_color=94A3B8&langs_count=8" alt="Top Languages" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAdhale&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+height="180"
+alt="Yash Adhale Top Languages"
+/>
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=YashAdhale&theme=transparent&hide_border=false&border=1E293B&background=00000000&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" width="65%" alt="GitHub Streak" />
+<img
+src="https://streak-stats.demolab.com?user=YashAdhale&theme=tokyonight&hide_border=true"
+width="60%"
+alt="Yash Adhale GitHub Streak"
+/>
 
 </div>
+
 
 <br />
 <br />
