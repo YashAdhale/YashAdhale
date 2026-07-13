@@ -183,7 +183,7 @@ An experimental AI agent built with Node.js and the Groq SDK.
 <br />
 <br /> -->
 
-<img src="https://streak-stats.demolab.com?user=YashAdhale&theme=transparent&hide_border=false&border=1E293B&background=00000000&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" width="65%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=YashAdhale&theme=transparent&hide_border=false&border=1E293B&background=00000000&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" width="50%" alt="GitHub Streak" />
 
 </div>
 
@@ -209,7 +209,7 @@ An experimental AI agent built with Node.js and the Groq SDK.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashAdhale&bg_color=00000000&color=94A3B8&line=06B6D4&point=E2E8F0&area=true&area_color=06B6D4&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashAdhale&bg_color=00000000&color=94A3B8&line=06B6D4&point=E2E8F0&area=true&area_color=06B6D4&hide_border=true&custom_title=Contribution%20Graph" width="5o=0%" alt="Contribution Graph" />
 
 </div>
 
