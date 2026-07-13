@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:06B6D4,100:0F172A&height=220&section=header&text=Yash%20Adhale&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend-Focused&descAlignY=55&descSize=18" width="100%" />
+<img src="https://i.ibb.co/XF3fK5b/yash-adhale-terminal-header.png" width="100%" alt="Yash Adhale Terminal Header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+backend+systems+%E2%9A%A1;Event-Driven+%E2%80%A2+Real-Time+%E2%80%A2+RBAC;Socket.IO+%E2%80%A2+SSE+%E2%80%A2+Redis+%E2%80%A2+RabbitMQ;Exploring+RAG+%E2%80%A2+LangChain+%E2%80%A2+Vector+Databases" alt="Typing SVG" />
