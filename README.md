@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=%3E_%20YASH_ADHALE&fontSize=60&fontColor=ffffff&animation=blink&fontAlignY=40&desc=[sudo]%20systemctl%20start%20backend-developer&descAlignY=65&descSize=20" width="100%" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1000&height=220&lines=%3E_Yash+Adhale;root@yash:~%24+whoami;Full+Stack+Developer;Backend+Focused+Engineer" alt="Typing SVG" />
+</a>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+backend+systems+%E2%9A%A1;Event-Driven+%E2%80%A2+Real-Time+%E2%80%A2+RBAC;Socket.IO+%E2%80%A2+SSE+%E2%80%A2+Redis+%E2%80%A2+RabbitMQ;Exploring+RAG+%E2%80%A2+LangChain+%E2%80%A2+Vector+Databases" alt="Typing SVG" />
 </a>
