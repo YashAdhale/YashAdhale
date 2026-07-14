@@ -142,7 +142,7 @@ An experimental AI agent built with Node.js and the Groq SDK.
     <tbody>
       <tr>
         <td align="right" width="40%"><b>Languages</b></td>
-        <td align="left" width="60%"><img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark" alt="Languages" valign="middle" /></td>
+        <td align="left" width="60%"><img src="https://skillicons.dev/icons?i=js,ts,py,java&theme=dark" alt="Languages" valign="middle" /></td>
       </tr>
       <tr>
         <td align="right"><b>Frontend</b></td>
