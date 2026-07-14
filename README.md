@@ -154,7 +154,7 @@ An experimental AI agent built with Node.js and the Groq SDK.
       </tr>
       <tr>
         <td align="right"><b>Databases & Caching</b></td>
-        <td align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis&theme=dark" alt="Databases and Caching" valign="middle" /></td>
+        <td align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis,mongodb&theme=dark" alt="Databases and Caching" valign="middle" /></td>
       </tr>
       <tr>
         <td align="right"><b>Messaging & Infrastructure</b></td>
