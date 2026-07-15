@@ -162,7 +162,7 @@ An experimental AI agent built with Node.js and the Groq SDK.
       </tr>
       <tr>
         <td align="right"><b>Cloud & Developer Tools</b></td>
-        <td align="left"><img src="https://skillicons.dev/icons?i=gcp,cloudflare,git,github,vscode,postman&theme=dark" alt="Cloud and Developer Tools" valign="middle" /></td>
+        <td align="left"><img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,postman&theme=dark" alt="Cloud and Developer Tools" valign="middle" /></td>
       </tr>
     </tbody>
   </table>
