@@ -158,7 +158,7 @@ An experimental AI agent built with Node.js and the Groq SDK.
       </tr>
       <tr>
         <td align="right"><b>Messaging & Infrastructure</b></td>
-        <td align="left"><img src="https://skillicons.dev/icons?i=rabbitmq,kafka,docker,websocket&theme=dark" alt="Messaging and Infrastructure" valign="middle" /></td>
+        <td align="left"><img src="https://skillicons.dev/icons?i=rabbitmq,kafka,docker,socket.io&theme=dark" alt="Messaging and Infrastructure" valign="middle" /></td>
       </tr>
       <tr>
         <td align="right"><b>Cloud & Developer Tools</b></td>
