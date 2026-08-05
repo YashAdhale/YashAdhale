@@ -8,7 +8,6 @@
 </a>
 
 <br />
-
 <a href="https://www.linkedin.com/in/yash-adhale/">
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-06B6D4?style=for-the-badge&logoColor=white" alt="Open to Work" />
 </a>
